@@ -193,6 +193,7 @@ input.submit {
     margin-top: 6px;
     white-space: nowrap;
     text-overflow: ellipsis;
+    height : 35px;
 }
 
 #albums article .artist, #albums article .count {
