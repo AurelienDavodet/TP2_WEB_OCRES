@@ -234,18 +234,18 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
 
 @media screen and (max-width: 450px) {
     body {
-        font-size: 120%;
+        font-size: 1.25rem;
   }
 }
 
 @media screen and (max-width: 600px) {
     body {
-        font-size: 80%;
+        font-size: 0.90rem;
   }
 }
 
 @media screen and (min-width: 1400px) {
     body {
-        font-size: 60%;
+        font-size: 0.75rem;
   }
 }
